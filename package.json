@@ -1,5 +1,5 @@
 {
-  "name": "art-drawing-pixels-editor",
+  "name": "pixel-editor",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,10 +8,9 @@
     "@testing-library/user-event": "^12.2.2",
     "react": "^17.0.1",
     "react-color": "^2.19.3",
-    "react-component-export-image": "^1.0.4",
+    "react-component-export-image": "^1.0.6",
     "react-dom": "^17.0.1",
     "react-scripts": "^5.0.1",
-    "sass": "^1.64.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
